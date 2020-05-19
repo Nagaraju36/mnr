@@ -1,3 +1,5 @@
 this is sample java project
 im update this file in local repo
-Now finally im commit in local repo and push the remote repo
+
+Again im update this file in remote repo and commit in remote repo
+now finally im commit in local repo and push the remote repo                                                              
