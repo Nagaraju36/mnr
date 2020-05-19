@@ -7,3 +7,7 @@ in git bash i'm using the line for merge conflict
 this is merge line, i'm using to test of merge confli
 this line is for pushed into the remote repo
 this is also
+
+this line is used for testing of stash cmd
+
+
