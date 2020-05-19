@@ -1,4 +1,4 @@
 this is the sample file of git
 version of 2.25.1
 this is my first file updation
-
+this is merge line, i'm using to test of merge conflicts
