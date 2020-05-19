@@ -1,4 +1,7 @@
 this is the sample file of git
 version of 2.25.1
 this is my first file updation
-in git bash i'm using the line for merge conflicts
+
+in git bash i'm using the line for merge conflict
+
+this is merge line, i'm using to test of merge conflict
