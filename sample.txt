@@ -6,13 +6,14 @@ in git bash i'm using the line for merge conflict
 
 this is merge line, i'm using to test of merge confli
 this line is for pushed into the remote repo
-<<<<<<< HEAD
+
 this is also
 
+
+
 this line is used for testing of stash cmd
 
 
-=======
-this line is used for testing of stash cmd
+this line is used for testing of stash c
+file added to remo
 
->>>>>>> 2ed81c223895397291c3f0621a948be140035a01
